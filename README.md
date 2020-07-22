@@ -1,11 +1,11 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/">Sarthak Srivastava</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/"><img src="logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/codebugged"><img src="logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/sarthak.srivastava.54/"><img src="logos/facebook.png" width="40" /></a>
-<a href="mailto:sarthak.srivastava14apr@gmail.com"><img src="logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/sarthak_sriv14"><img src="logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/codebugged/"><img src="logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/codebugged"><img src="https://github.com/codebugged/codebugged/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/sarthak.srivastava.54/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:sarthak.srivastava14apr@gmail.com"><img src="https://github.com/codebugged/codebugged/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/sarthak_sriv14"><img src="https://github.com/codebugged/codebugged/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/codebugged/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/instagram.png" width="40" /></a>
 <h2> I am an AI Product Developer and Founder of Codebugged 🚀 </h2>
 <details>
 <summary>Education 📚</summary>
