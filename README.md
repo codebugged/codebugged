@@ -75,4 +75,4 @@
     </ul>
 </details>
 
-<img width="55%" align="centre" alt="Github" src="https://github.com/codebugged/codebugged/blob/master/logos/abc.png" />
+<img width="55%" align="centre" alt="Github" src="https://github.com/codebugged/codebugged/blob/master/logos/abc.jpg" />
