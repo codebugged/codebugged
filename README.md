@@ -74,5 +74,3 @@
     <li>Let's talk over a cup of  coffee </li>
     </ul>
 </details>
-
-<img width="55%" align="centre" alt="Github" src="https://github.com/codebugged/codebugged/blob/master/logos/abc.jpg" />
