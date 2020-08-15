@@ -6,7 +6,7 @@
 <a href="mailto:sarthak.srivastava14apr@gmail.com"><img src="https://github.com/codebugged/codebugged/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/sarthak_sriv14"><img src="https://github.com/codebugged/codebugged/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/codebugged/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/instagram.png" width="40" /></a>
-<h2> I am an AI Product Developer and Founder of Codebugged 🚀 </h2>
+<h2> I am an AI Product Developer 🚀 </h2>
 <details>
 <summary>Education 📚</summary>
 <ul>
