@@ -48,7 +48,7 @@
 <summary>Founder: Codebugged Organization ❤️</summary>
 <ul>
 	<li><a> Codebugged is an organisation of software-tech including students and professionals who aim at Artificial Intelligence, Data Science, Machine Learning and Internet of Things based product development for Social Good, Security and Healthcare.</a></li>
-  <li><a href="https://www.codebugged.com">Visit: Codebugged </a></li>
+  <li><a href="https://codebugged.com">Visit: Codebugged </a></li>
   <li><a href="https://www.linkedin.com/company/codebugged/?viewAsMember=true">Join us on LinkedIn</a></li>
 </ul>
 </details>
