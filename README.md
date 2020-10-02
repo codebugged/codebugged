@@ -1,4 +1,5 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/">Sarthak Srivastava</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+![](https://komarev.com/ghpvc/?username=codebugged&color=blue)
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/codebugged"><img src="https://github.com/codebugged/codebugged/blob/master/logos/github-logo.png" width="40" /></a>
