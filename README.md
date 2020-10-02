@@ -1,6 +1,6 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/sarthak-srivastava-93ab14172/">Sarthak Srivastava</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<a href="https://github.com/codebugged/github-profile-views-counter">
+<a href="https://github.com/codebugged/">
     <img src="https://komarev.com/ghpvc/?username=codebugged">
 </a>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
