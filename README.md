@@ -10,7 +10,7 @@
 <a href="mailto:sarthak.srivastava14apr@gmail.com"><img src="https://github.com/codebugged/codebugged/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/sarthak_sriv14"><img src="https://github.com/codebugged/codebugged/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/codebugged/"><img src="https://github.com/codebugged/codebugged/blob/master/logos/instagram.png" width="40" /></a>
-<h2> I am an AI Product Developer 🚀 </h2>
+<h2> I am an AI Product Developer presently working at NVIDIA 🚀 </h2>
 <details>
 <summary>Education 📚</summary>
 <ul>
@@ -31,6 +31,7 @@
 <details>
 	<summary>Experience  👨‍💻</summary>
   <ul>
+    <li><a>AI Research Intern at NVIDIA India</a></li>
     <li><a>AI Research Intern at Prithvi AI Labs IIT Kanpur</a></li>
     <li><a>Project Associate at RDSO Lucknow</a></li>
      </ul>
@@ -67,8 +68,8 @@
 <details>
   <summary>Contact: 📞</summary>
   <ul>
-  <li>Mail me your requests at <a href="mailto: thecodebugged@gmail.com">
-   thecodebugged@gmail.com <br>
+  <li>Mail me your requests at <a href="mailto: sarthak@codebugged.com">
+   sarthak@codebugged.com <br>
   </a></li>
 </ul>
 </details>
