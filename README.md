@@ -14,7 +14,7 @@
 <details>
 <summary>Education 📚</summary>
 <ul>
-  <li>Engineering (Pursuing): <a href="http://mmmut.ac.in/">Madan Mohan Malaviya University of Technology</a></li>
+  <li>Engineering: <a href="http://mmmut.ac.in/">Madan Mohan Malaviya University of Technology</a></li>
   <li>Schooling: <a href="http://www.cmseducation.org/">City Montessori School, Lucknow</a></li>
 </ul>
 </details>
